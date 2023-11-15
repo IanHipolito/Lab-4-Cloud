@@ -108,7 +108,7 @@ compute_client = ComputeManagementClient(credential, subscription_id)
 
 VM_NAME = "PythonAzureVM"
 USERNAME = "pythonazureuser"
-PASSWORD = "Bakugan2670"
+PASSWORD = "LetMeIn123"
 
 print(f"Provisioning virtual machine {VM_NAME}; this operation might take a few minutes.")
 
